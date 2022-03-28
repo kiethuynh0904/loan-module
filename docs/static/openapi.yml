@@ -47239,6 +47239,8 @@ definitions:
         type: string
       lender:
         type: string
+  kiethuynh0904.loan.loan.MsgRequestLoanResponse:
+    type: object
   kiethuynh0904.loan.loan.Params:
     type: object
     description: Params defines the parameters for the module.
