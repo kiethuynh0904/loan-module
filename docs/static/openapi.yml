@@ -47241,6 +47241,8 @@ definitions:
         type: string
   kiethuynh0904.loan.loan.MsgApproveLoanResponse:
     type: object
+  kiethuynh0904.loan.loan.MsgRepayLoanResponse:
+    type: object
   kiethuynh0904.loan.loan.MsgRequestLoanResponse:
     type: object
   kiethuynh0904.loan.loan.Params:
